@@ -9,4 +9,4 @@
 	url = git@github.com:Cro5s/extract-value-object.git
 [submodule "thoughtbot/refactoring/extract-value-object"]
 	path = thoughtbot/refactoring/extract-value-object
-	url = https://github.com/Cro5s/extract-value-object
+	url = git@github.com:Cro5s/extract-value-object.git
