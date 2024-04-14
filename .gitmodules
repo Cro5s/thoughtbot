@@ -1,3 +1,6 @@
 [submodule "thoughtbot/refactoring/null-object-part-one"]
 	path = thoughtbot/refactoring/null-object-part-one
 	url = git@github.com:Cro5s/null-object-part-one.git
+[submodule "thoughtbot/refactoring/null-object-part-two"]
+	path = thoughtbot/refactoring/null-object-part-two
+	url = git@github.com:Cro5s/null-object-part-two.git
