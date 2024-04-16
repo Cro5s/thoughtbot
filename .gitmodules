@@ -7,3 +7,6 @@
 [submodule "thoughtbot/refactoring/introduce-parameter-object"]
 	path = thoughtbot/refactoring/introduce-parameter-object
 	url = git@github.com:Cro5s/introduce-parameter-object.git
+[submodule "thoughtbot/refactoring/null-object-part-two"]
+	path = thoughtbot/refactoring/null-object-part-two
+	url = git@github.com:Cro5s/null-object-part-two.git
