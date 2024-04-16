@@ -1,12 +1,6 @@
 [submodule "thoughtbot/refactoring/null-object-part-one"]
 	path = thoughtbot/refactoring/null-object-part-one
 	url = git@github.com:Cro5s/null-object-part-one.git
-[submodule "thoughtbot/refactoring/null-object-part-two"]
-	path = thoughtbot/refactoring/null-object-part-two
-	url = git@github.com:Cro5s/null-object-part-two.git
-[submodule "thoughtbot/extract-value-object"]
-	path = thoughtbot/extract-value-object
-	url = git@github.com:Cro5s/extract-value-object.git
 [submodule "thoughtbot/refactoring/extract-value-object"]
 	path = thoughtbot/refactoring/extract-value-object
 	url = git@github.com:Cro5s/extract-value-object.git
