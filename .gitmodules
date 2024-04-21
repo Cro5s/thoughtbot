@@ -13,3 +13,6 @@
 [submodule "thoughtbot/refactoring/extract-validator"]
 	path = thoughtbot/refactoring/extract-validator
 	url = git@github.com:Cro5s/extract-validator.git
+[submodule "thoughtbot/refactoring/cleaning-up-a-controller"]
+	path = thoughtbot/refactoring/cleaning-up-a-controller
+	url = git@github.com:Cro5s/cleaning-up-a-controller.git
