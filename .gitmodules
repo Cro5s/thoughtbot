@@ -10,3 +10,6 @@
 [submodule "thoughtbot/refactoring/null-object-part-two"]
 	path = thoughtbot/refactoring/null-object-part-two
 	url = git@github.com:Cro5s/null-object-part-two.git
+[submodule "thoughtbot/refactoring/extract-validator"]
+	path = thoughtbot/refactoring/extract-validator
+	url = git@github.com:Cro5s/extract-validator.git
