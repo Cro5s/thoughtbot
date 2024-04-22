@@ -16,3 +16,6 @@
 [submodule "thoughtbot/refactoring/cleaning-up-a-controller"]
 	path = thoughtbot/refactoring/cleaning-up-a-controller
 	url = git@github.com:Cro5s/cleaning-up-a-controller.git
+[submodule "thoughtbot/refactoring/replace-conditional-with-polymorphism"]
+	path = thoughtbot/refactoring/replace-conditional-with-polymorphism
+	url = git@github.com:Cro5s/replace-conditional-with-polymorphism.git
