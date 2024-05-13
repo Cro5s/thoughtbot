@@ -19,3 +19,6 @@
 [submodule "thoughtbot/refactoring/replace-conditional-with-polymorphism"]
 	path = thoughtbot/refactoring/replace-conditional-with-polymorphism
 	url = git@github.com:Cro5s/replace-conditional-with-polymorphism.git
+[submodule "thoughtbot/tdd/tdd-spec-cleanup-exercise"]
+	path = thoughtbot/tdd/tdd-spec-cleanup-exercise
+	url = git@github.com:Cro5s/tdd-spec-cleanup-exercise.git
